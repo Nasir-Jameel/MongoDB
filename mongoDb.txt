@@ -1,0 +1,12 @@
+lec # 1
+1: Data Storage 
+2: Types of DBS (sql,nosql)
+3: What and why
+4: terminologies - collection, documents, schemas, keys, models
+
+lectures # 2:
+1: mongoDb installation
+2: mongoDb connection
+3: schema
+4: model
+5: crud
