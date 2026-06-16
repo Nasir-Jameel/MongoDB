@@ -4,7 +4,7 @@ const userModel  = require ('./usermodel');
 
 
 app.get('/',function(req,res){
-    res.send("hey")
+    res.send("hey") 
 })
 
 app.get('/create',async (req,res)=>{
