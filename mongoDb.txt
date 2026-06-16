@@ -6,7 +6,10 @@ lec # 1
 
 lectures # 2:
 1: mongoDb installation
-2: mongoDb connection
+2: mongoDb connection 
+create a folder of usermodel.js
+const mongoose = require("mongoose")
+mongoose.connect('mongodb://localhost:27017')     you can also write ('mongodb://127.0.0.1:27017')
 3: schema
 4: model
 5: crud
